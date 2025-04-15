@@ -17,9 +17,10 @@
  - Hand Keypoint Detection
  - Human Reconstruction
  
-📌 Self-Supervised & Weakly Supervised Learning
- - 3D Vision 및 Object Detection을 위한 약지도 학습 기법 연구
- 
 📌 3D Vision & Reconstruction
  - 단일/다중 이미지로부터 3D 구조를 복원하는 기법 연구
  - Multi-View Geometry, Implicit Functions, Neural 3D Representations
+
+ 📌 Multimodal Learning & Fusion
+ - Weakly Misalignment
+ - Cross-modal Learning, Attention-based Fusion
